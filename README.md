@@ -17,9 +17,9 @@ It measures forest vertical structure by recording transmitted and
 returned laser pulse energy over nanoseconds.
 
 ![GEDI on
-ISS](https://www.nasa.gov/wp-content/uploads/2019/03/iss059e012220.jpg)
+ISS](https://www.eoportal.org/api/cms/documents/163813/6584772/GEDI.jpeg/b48570e3-15f7-e4d9-1e6d-09cbb91496fb?t=1670129680165)
 ![Example GEDI
-Waveform](https://gedi.umd.edu/wp-content/uploads/2019/04/GEDI_L1B_waveform.png)
+Waveform](https://gedi.umd.edu/wp-content/uploads/2020/01/New_GEDI_data-259x258.png)
 
 ------------------------------------------------------------------------
 
